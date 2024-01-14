@@ -4,6 +4,8 @@ devendra
 this is prashant kumar upadhyay"""
 
 a = int(input("Enter the integer : "))
+
 print(a)
+
 print(type(a))
 print(float(a))
